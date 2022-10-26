@@ -1,6 +1,5 @@
 import axios from 'axios';
 
-
 // constant
 const DISPLAY_GREETING = 'DISPLAY_GREETING';
 
@@ -16,7 +15,6 @@ export const fetchGreetingAPI = () => async (dispatch) => {
   const greeting = response.data;
   dispatch(displayGreeting(greeting));
 };
-
 
 // initial states
 const initialState = [];

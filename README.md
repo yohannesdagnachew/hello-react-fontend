@@ -20,6 +20,9 @@ To get a local copy up and running follow these simple example steps.
 
 - You need Ruby v3+, Rails v7+ and Postgresql installed on your machine.
 
+## Link to back-end App 
+- Click [here](https://github.com/yohannesdagnachew/hello-rails-backend-)
+
 ## Setup
 
 - Clone the project `git@github.com:yohannesdagnachew/hello-react-fontend.git`
